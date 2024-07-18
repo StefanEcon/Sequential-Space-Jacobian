@@ -1,2 +1,2 @@
-"# Ayagari" 
+
 "# Sequential-Space-Jacobian" 
